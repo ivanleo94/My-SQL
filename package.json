@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/szinski/burger.git"
+    "url": "git+https://github.com/ivanleo94/My-SQL.git"
   },
   "author": "Steve Zinski",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/szinski/burger/issues"
+    "url": "https://github.com/ivanleo94/My-SQL/issues"
   },
-  "homepage": "https://github.com/szinski/burger#readme",
+  "homepage": "https://github.com/ivanleo94/My-SQL#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
